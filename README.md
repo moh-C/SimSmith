@@ -43,3 +43,22 @@ Question 9:
 
 Question 10:
 <img src="./ReadMe%20Assets/11.png">
+
+## 4th Video
+
+<a href="https://www.youtube.com/watch?v=4QttETWyUeo&list=PL05oO9foDKMSoIiVBxssOlPnBavv-ybLh&index=7">#11: Creation Of SWR (Basics 4)</a>
+
+This is for a SWR of 1:1
+<img src="./ReadMe%20Assets/SWR1.png">
+
+This is for a SWR of 3:1
+<img src="./ReadMe%20Assets/12.png">
+
+This is for a SWR of 3:1
+<img src="./ReadMe%20Assets/SWR2.png">
+
+This is for a SWR of 1:1 (Continous Wave)
+<img src="./ReadMe%20Assets/SWR3.png">
+
+This is for a SWR of 3:1 (Continous Wave)
+<img src="./ReadMe%20Assets/SWR4.png">
